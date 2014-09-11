@@ -719,8 +719,9 @@ Lane* Road::chooseLaneForVehicle(Way way, Vehicle* vehicle, double& lanePos){
 			return left;
 		}
 	}
-
-	if( getStartJunction(way)==0 ) {
+    //TODO: Why this if?!
+	//if( getStartJunction(way)==0 ) 
+    {
 	    vns::Road* nroad = 0;
 	    vns::Path::Iterator it = vehicle->getPathIterator();
 	    if( it.hasNext() ){
