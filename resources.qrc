@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="tl_yellow.png">images/tl_yellow.png</file>
+        <file alias="tl_red.png">images/tl_red.png</file>
+        <file alias="tl_green.png">images/tl_green.png</file>
+        <file alias="tl_off.png">images/tl_off.png</file>
+        <file alias="step_sim.png">images/step_sim.png</file>
+        <file alias="stop_sim.png">images/stop_sim.png</file>
+        <file alias="fast_sim.png">images/fast_sim.png</file>
+        <file alias="start_sim.png">images/start_sim.png</file>
+        <file alias="pause_sim.png">images/pause_sim.png</file>
+        <file alias="0_0.png">images/vehicles/0/0.png</file>
+        <file alias="0_1.png">images/vehicles/0/1.png</file>
+        <file alias="0_2.png">images/vehicles/0/2.png</file>
+        <file alias="0_3.png">images/vehicles/0/3.png</file>
+        <file alias="0_4.png">images/vehicles/0/4.png</file>
+        <file alias="0_5.png">images/vehicles/0/5.png</file>
+        <file alias="0_6.png">images/vehicles/0/6.png</file>
+        <file alias="0_7.png">images/vehicles/0/7.png</file>
+        <file alias="0_8.png">images/vehicles/0/8.png</file>
+        <file alias="0_9.png">images/vehicles/0/9.png</file>
+        <file alias="0_10.png">images/vehicles/0/10.png</file>
+        <file alias="0_11.png">images/vehicles/0/11.png</file>
+        <file alias="0_12.png">images/vehicles/0/12.png</file>
+        <file alias="0_13.png">images/vehicles/0/13.png</file>
+        <file alias="0_14.png">images/vehicles/0/14.png</file>
+        <file alias="0_15.png">images/vehicles/0/15.png</file>
+        <file alias="1_0.png">images/vehicles/1/0.png</file>
+        <file alias="1_1.png">images/vehicles/1/1.png</file>
+        <file alias="1_2.png">images/vehicles/1/2.png</file>
+        <file alias="2_0.png">images/vehicles/2/0.png</file>
+        <file alias="stop_lane.png">images/stop_lane.png</file>
+        <file alias="3_0.png">images/vehicles/3/0.png</file>
+        <file alias="vns.png">images/vns.png</file>
+        <file alias="4_0.png">images/vehicles/4/0.png</file>
+        <file alias="4_1.png">images/vehicles/4/1.png</file>
+        <file alias="5_0.png">images/vehicles/5/0.png</file>
+    </qresource>
+</RCC>

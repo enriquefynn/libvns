@@ -1,0 +1,30 @@
+In a command terminal, go to the libvns root dir and enter the following commands:
+
+LINUX:
+	$ qmake
+	$ make
+	$ sudo make install
+
+OSX:
+	$ qmake -spec macx-g++
+	$ make
+	$ sudo make install
+
+
+That's it!
+
+libvns dependencies:
+	libQtCore
+	libQtGui
+	libQtXml
+	libQtOpenGL
+	libopenscenegraph-dev
+	
+
+
+
+
+
+
+
+
