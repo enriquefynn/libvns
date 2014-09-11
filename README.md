@@ -1,4 +1,5 @@
-This is a fork from [vns](http://www.dcc.fc.up.pt/~rjf/vns/)
+This is a fork from [vns](http://www.dcc.fc.up.pt/~rjf/vns/) Vehicular Network Simulator,
+a simulator for VANET.
 
 VNS is a high-performance simulator for vehicular networks. It was developed by 
 [Ricardo Fernandes](http://www.dcc.fc.up.pt/~rjf/) at DCC-FCUP and Instituto de 
